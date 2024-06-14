@@ -1,0 +1,15 @@
+Saldos	Average Time in System	1625.19702235162
+Centrifugado 1	Waiting %	54.7360072752214
+O_Arrugas	Utilization %	59.7074530987235
+O_Bigotes	Utilization %	78.1953588602773
+O_Desgaste	Utilization %	99.9804479342116
+O_Desvanecido_M	Utilization %	99.9830522139339
+O_Desvanecido_Q	Utilization %	99.956317112352
+O_Etiquetado	Utilization %	29.5706522784498
+O_maquillaje	Utilization %	43.888351489213
+O_Rotos	Utilization %	32.1961314773164
+Saldos	Number Completed	1016
+Rifle	Number Completed	20962
+People	Number Completed	60169
+Levis	Number Completed	21058
+Cola Daños lavado	Average queue size	568.92572984006
